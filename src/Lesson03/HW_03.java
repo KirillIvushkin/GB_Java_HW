@@ -18,6 +18,8 @@ public class HW_03 {
 
     public static void main(String[] args) {
 
+        System.out.println("ДЗ №3 Обобщения");
+
         int countApples = 4;
         int countOranges= 5;
 
